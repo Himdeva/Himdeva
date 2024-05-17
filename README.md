@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Himdeva
 - 👀 I’m interested in programming
-- 🌱 I’m currently flutter & pyrhon
+- 🌱 I’m currently flutter & python
 - 💞️ I’m looking to collaborate on any thing
 - 📫 How to reach me gupta1441997@gmail.com
 
