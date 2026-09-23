@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Himdeva
 - 👀 I’m interested in programming
-- 🌱 I’m currently flutter & python
-- 💞️ I’m looking to collaborate on any thing
-- 📫 How to reach me gupta1441997@gmail.com
+- 🌱 I’m currently learning Full Stack Devlopment
 
 <!---
 Himdeva/Himdeva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
